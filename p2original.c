@@ -2,7 +2,7 @@
 int input_side()
 {
   int n;
-  printf("Enter the side of the triangle:");
+  printf("Enter the side of the triangle:\n");
   scanf("%d",&n);
   return n;
 }
